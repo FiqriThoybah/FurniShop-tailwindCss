@@ -7,6 +7,7 @@ import Stats from './Stats';
 
 const Hero = () => {
   const { title, subtitle, buttonText } = hero;
+  console.log("lihat isi dari hero : ", hero);
   return (
     <section className='h-full max-h-[850px] w-full bg-hero bg-right lg:bg-center bg-cover bg-no-repeat text-white pt-[225px] relative mb-12 lg:mb-28'>
      <div className='container mx-auto text-center'>
