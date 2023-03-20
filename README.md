@@ -1,1 +1,1 @@
-# furniture-starter
+# furniture-landing page
